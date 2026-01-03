@@ -1,2 +1,2 @@
 first line from file1.txt
-second line in file1.txt from user1 in lab-5
+modified second line in file1.txt from user1 in lab-5
